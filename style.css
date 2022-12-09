@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+.image {
+  margin: auto;
+  display: block;
+  /* max-width: 500px; */
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  opacity: 1px;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  /* box-shadow: 1px 1px 1px 1px; */
+}
